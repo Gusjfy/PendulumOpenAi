@@ -31,7 +31,6 @@ if __name__ == '__main__':
 	env = gym.make('Pendulum-v1')
 	num_action_bins = 10
 	actionbinslist = create_action_bins(num_action_bins)
-	# model = load_model('pendulum-model.h5')
 	model = load_model('model.h5')
-	for i in range(10):
+	for i in range(1):
 		start()
