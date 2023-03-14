@@ -11,7 +11,7 @@ O gym é um kit de ferramentas para desenvolver e comparar algoritmos de aprendi
 ## Técnica
 Foi utilizado um treinamento através de redes neurais utilizando a técnica de aprendizagem por reforço.
 
-Ao trabalhar com o gym, existem 4 valores que precisamos enviar e trabalhar para fazer o algoritmo funcionar. eles são:
+Ao trabalhar com o gym, exis  tem 4 valores que precisamos enviar e trabalhar para fazer o algoritmo funcionar. eles são:
 
 observation: um objeto específico do ambiente que representa a observação do ambiente. No nosso caso, são valores de intervalo de força para as direçoes.
 reward: recompensa alcançada pela ação anterior. O nosso objetivo foi aumentar sua recompensa total.
